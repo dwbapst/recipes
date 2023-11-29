@@ -1,3 +1,7 @@
+# David's Recipe Collection
+
+## Recipe Index
+
 ### Breads and Pastries
 
 - [Almost No-Knead Baguettes](almost_no-knead_baguettes.md)
