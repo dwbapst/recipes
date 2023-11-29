@@ -23,7 +23,7 @@
 - [Curry with Rice](curry_with_rice.md)
 - [Deep-Dish Chicago Pizza](deep-dish_Chicago_pizza.md)
 - [Dutch Pot](dutch_pot.md)
-- [Elote - Mexican Street Corn](elote_-_mexican_street_corn.md)
+- [Elote - Mexican Street Corn](elote_mexican_street_corn.md)
 - [Fake Beef Stew from Ara](fake_beef_stew_from_ara.md)
 - [Forty-Eight Hour Sourdough](forty-eight_hour_sourdough.md)
 - [Honey Whole Wheat](honey_whole_wheat.md)
