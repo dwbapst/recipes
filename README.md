@@ -10,7 +10,7 @@
 - [Forty-Eight Hour Sourdough](./recipes/forty-eight_hour_sourdough.md)
 - [Honey Whole Wheat](./recipes/honey_whole_wheat.md)
 - [No-Knead Bread from Mark Bittman](./recipes/no-knead_bread_from_mark_bittman.md)
-- [Pan a l'Ancienne (Bread)](<./recipes/<pan_a_l'ancienne_(bread).md>>)
+- [Pan a l'Ancienne (Bread)](<./recipes/pan_a_l'ancienne_(bread).md>)
 - [Pumpkin Bread](./recipes/pumpkin_bread.md)
 - [Soft Dinner Rolls](./recipes/soft_dinner_rolls.md)
 - [Waffle-Iron Churros](./recipes/waffle-iron_churros.md)
