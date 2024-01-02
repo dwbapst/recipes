@@ -3,7 +3,7 @@
 
 ## Ingredients
 - 1 & 1/4 cups sugar
-- 1/3 cup butter or margarine, softened
+- 1/2 cup butter or margarine, softened
 - 2 large eggs
 - 1 & 1/2 cups mashed very ripe bananas
 - 1/2 cup buttermilk
