@@ -1,34 +1,28 @@
-Pasta with Sausage & Peppers
+# Pasta with Sausage & Peppers
 
-Based on https://www.primaverakitchen.com/italian-sausage-onions-and-peppers-skillet/
+Inspired by a recipe from [Primavera Kitchen](https://www.primaverakitchen.com/italian-sausage-onions-and-peppers-skillet/)
 
-
-Ingredients
+## Ingredients
 
 - Penne Pasta
-- Sausage: Italian Sausage, Smoked Polish Sausage, etc
-- White and Red Onion (sliced into 1 inch pieces)
-- Bell Pepper (Green, Red, Yellow; sliced into 1 inch pieces)
-- Liquid for Deglazing (Red Wine, White Wine, Apple Cider, etc)
-- Stuff to add on top of pasta: fresh basil leaves, shaved Parmesan cheese, etc.
+- Italian Sausage, Smoked Polish Sausage, etc.
+- 1 White Onion, sliced into 1-inch pieces
+- 1 Red Onion, sliced into 1-inch pieces
+- Bell Peppers (Green, Red, Yellow; sliced into 1-inch pieces)
+- Liquid for deglazing (Red Wine, White Wine, Apple Cider, etc.)
+- Olive oil
+- Fresh basil leaves (for garnishing)
+- Shaved Parmesan cheese (for topping)
 
+## Directions
 
-1) Boil salted water for penne pasta, add penne pasta, drain and add olive oil so the pasta doesn't stick.
-
-2 ) While the water is boiling, heat oil in a skillet.
-
-3) Add sausage, preferably whole. Cook for ~3 minutes until the sausage is browned on all sides. 
-
-4) Remove the sausage and slice into discs. While the sausage may not be cooked through yet, we will cook them more in a bit.
-
-5) If you need to, add more olive oil if necessary. 
-
-6) Sauté the peppers and onions in the same skillet for about three minutes, without wiping it out. 
-
-7) Deglaze the pan, by adding white wine, red wine or apple cider to the pan, and scrapping the bottom of the pan with your spatula. 
-
-8) Add the sliced sausage and reduce heat to low, and allow to simmer. Depending on how un-cooked the sausage continues to, or how crisp you want the vegetables to be, you may cover and allow to cook covered for 10 minutes.
-
-9)Top pasta with sausage and vegetables from pan, and top with Parmesan cheese and freshly chopped basil.
-
-
+1. Boil a pot of salted water and cook penne pasta according to the package instructions. Drain and toss with a bit of olive oil to prevent sticking.
+2. While pasta is cooking, heat oil in a large skillet over medium heat.
+3. Add the whole sausages to the skillet. Cook for approximately 3 minutes or until browned on all sides.
+4. Remove sausages from the skillet and slice them into discs. They will not be fully cooked yet and will continue cooking later.
+5. If necessary, add more olive oil to the skillet.
+6. Sauté the sliced peppers and onions in the same skillet for about 3 minutes.
+7. Deglaze the pan by adding your choice of wine or apple cider, scraping the bottom of the pan with a spatula to loosen any browned bits.
+8. Return the sliced sausage to the skillet, reducing the heat to low. Let it simmer. Cover and cook for 10 minutes if you prefer the sausage well-done and the vegetables soft.
+9. Serve the sausage and vegetables over the prepared penne pasta.
+10. Top with shaved Parmesan cheese and fresh basil before serving.

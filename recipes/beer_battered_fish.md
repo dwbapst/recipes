@@ -1,15 +1,19 @@
-1 Can of Stale Beer
-1 Cup of Flour
-1 tsp of salt
-1 tsp of sugar
-1 tsp of baking soda
-2 Eggs
+# Beer-Battered Fish
 
-Wash fish and make sure they are very dry.
-Mix ingredients and dip fish in batter, letting excess drip off into bowl.
-Fry until golden brown on both sides.
+## Ingredients
+- 1 can of stale beer
+- 1 cup of flour
+- 1 tsp of salt
+- 1 tsp of sugar
+- 1 tsp of baking soda
+- 2 eggs (1 egg might also suffice)
 
-NOTES
-Appears that 1 egg and slightly less than 1 can of beer would be good. 
+## Instructions
+1. Ensure the fish is washed and very dry.
+2. Mix all ingredients, keeping the batter lumpy.
+3. Dip fish in batter, allowing excess to drip off.
+4. Fry until golden brown on both sides.
 
-Also, make sure to keep batter at a lumpy consistency.
+## Notes
+- Consider using slightly less than 1 can of beer.
+- Maintain a lumpy consistency for the batter.

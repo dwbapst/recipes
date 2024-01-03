@@ -1,52 +1,45 @@
+# Apple Pancake Recipe
 
-Apple Pancake Recipe:
-From: 
-http://whatscookingamerica.net/Eggs/ApplePancake.htm
-http://www.food.com/recipe/baked-apple-pancake-105424
-http://www.foodandwine.com/recipes/light-and-fluffy-baked-apple-pancake
+From:
 
-Yields: 2 to 4 servings
-Prep time: 15 min
-Cook time: 25 min
+- [What's Cooking America](http://whatscookingamerica.net/Eggs/ApplePancake.htm)
+- [Food.com](http://www.food.com/recipe/baked-apple-pancake-105424)
+- [Food & Wine](http://www.foodandwine.com/recipes/light-and-fluffy-baked-apple-pancake)
 
-Ingredients:
+## Yields
 
-1/4 cup granulated sugar
-2 teaspoons ground cinnamon
-4 tablespoons butter
-2 tart cooking apples, peeled, cored, and sliced into 1/4-inch slices
-1 tablespoon freshly squeezed lemon juice
+2 to 4 servings
 
-4 eggs, beaten and room temperature
-1/2 teaspoon salt
-1 cup all-purpose flour or bread flour
-1 cup milk, room temperature
-1/4 teaspoon pure vanilla extract
- 1 teaspoon baking powder
+## Prep Time
 
-Preparation:
+15 min
 
-Preheat oven to 425 degrees F. Place oven rack in the middle of your oven.
+## Cook Time
 
-In a small bowl, combine sugar and cinnamon; set aside.
+25 min
 
-In a large bowl, combine eggs, salt, flour, milk, and vanilla extract; beat until batter is smooth
-(the batter will be thin, but very smooth and creamy); set aside.
+## Ingredients
 
-In a large heavy ovenproof frying pan or a cast-iron skillet (I like to use my 10-inch cast-iron skillet)
-over medium heat, melt butter, tilting pan to cover sides. Add apples and sprinkle with sugar and cinnamon mixture.
-Add lemon juice. Stir and let cook for 5 to 7 minutes to slightly cook the apple slices; remove from heat.
+- 1/4 cup granulated sugar
+- 2 teaspoons ground cinnamon
+- 4 tablespoons butter
+- 2 tart cooking apples, peeled, cored, and sliced into 1/4-inch slices
+- 1 tablespoon freshly squeezed lemon juice
+- 4 eggs, beaten and room temperature
+- 1/2 teaspoon salt
+- 1 cup all-purpose flour or bread flour
+- 1 cup milk, room temperature
+- 1/4 teaspoon pure vanilla extract
+- 1 teaspoon baking powder
 
-Pour prepared pancake batter over the apples into the baking pan. Place pan in preheated oven and bake
- approximately 20 minutes or until puffed above sides of the pan and lightly browned (it may puff
- irregularly in the center); remove from oven.
+## Preparation
 
-Remove pancake from the baking pan by flipping upside down onto a serving platter (apples and cinnamon 
-will be on top). Once out of the oven, the pancake will begin to deflate.
+1. Preheat oven to 425 degrees F. Place oven rack in the middle of your oven.
+2. In a small bowl, combine sugar and cinnamon; set aside.
+3. In a large bowl, combine eggs, salt, flour, milk, and vanilla extract; beat until batter is smooth (the batter will be thin, but very smooth and creamy); set aside.
+4. In a large heavy ovenproof frying pan or a cast-iron skillet (preferably 10-inch cast-iron) over medium heat, melt butter, tilting pan to cover sides. Add apples and sprinkle with sugar and cinnamon mixture. Add lemon juice. Cook for 5 to 7 minutes to slightly cook the apple slices; remove from heat.
+5. Pour prepared pancake batter over the apples into the baking pan. Bake approximately 20 minutes or until puffed above sides of the pan and lightly browned. Remove from oven.
+6. Remove pancake from the baking pan by flipping upside down onto a serving platter (apples and cinnamon will be on top). The pancake will begin to deflate once out of the oven.
+7. Serve in wedges with an optional dusting of powdered sugar over the top.
 
-To serve, cut into serving-size wedges and transfer to individual serving plates. Serve with an 
-optional dusting of powdered sugar over the top.
-
--Alternatively, cook apples with 1/4 cup maple syrup and 1 tablespoon sugar, instead of sugar with cinnamon.
-
-
+**Note**: Alternatively, cook apples with 1/4 cup maple syrup and 1 tablespoon sugar, instead of sugar with cinnamon.

@@ -1,252 +1,37 @@
-Chicago-Style Deep Dish Pizza
-Recipe by PJ Hamel
-King Arthur Baking
-https://www.kingarthurbaking.com/recipes/chicago-style-deep-dish-pizza-recipe
-
-
-Did you ever wonder about the "pie" in pizza pie? This dish will make that connection clear for you. With its 1 1/2" tall crust cradling distinct layers of cheese, sausage, and tomatoes, this is definitely a knife-and-fork pizza PIE. We like to bake this in a big, 14" deep-dish pizza pan; it makes a spectacular presentation, right out of the oven. But if you don't have a big pan, feel free to use two 9" round cake pans.
-
-Ingredients
-
-Crust
-
-    4 cups (480g) King Arthur Unbleached All-Purpose Flour
-    3 tablespoons (35g) yellow cornmeal
-    1 3/4 teaspoons (11g) salt
-    2 3/4 teaspoons instant yeast
-    2 tablespoons (25g) olive oil
-    4 tablespoons (57g) butter, melted
-    2 tablespoons (25g) vegetable oil
-    1 cup + 2 tablespoons (255g) lukewarm water
-
-Filling
-
-    3/4 lb mozzarella cheese, sliced
-    1 pound Italian sweet or hot sausage, cooked and sliced; or about 3 cups of the sautéed vegetables of your choice
-    28-ounce can plum tomatoes, lightly crushed; or 28-ounce can diced or chopped tomatoes
-    2 to 4 garlic cloves, peeled and minced, optional
-    1 tablespoon granulated sugar, optional
-    1 to 2 teaspoons Pizza Seasoning or mixed dried Italian herbs (oregano, basil, rosemary), to taste
-    1 cup (113g) freshly grated Parmesan or Asiago cheese
-    2 tablespoons (25g) olive oil, to drizzle on top
-
-
-Instructions
-
-    To make the crust: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Mix flour with the rest of the dough ingredients, and knead — by hand, mixer, or bread machine — to make a smooth crust. This will take about 7 minutes at medium-low speed in a stand mixer.
-
-    Place the dough in a lightly oiled bowl or 8-cup measure (which makes it easy to track its rise), cover, and let rise till very puffy, about 60 minutes.
-
-    While the dough is rising, ready your 14" deep-dish pizza pan. Grease it with non-stick vegetable oil spray, then pour in 3 to 4 tablespoons olive oil, tilting it to cover the bottom of the pan, and partway up the sides.
-
-    Stretch the dough to make as large a circle as you can. You can do this on a lightly oiled baking mat, if you choose; or simply stretch the dough in your hands.
-
-
-    Lay the dough in the pan, and stretch it towards the edges until it starts to shrink back. Cover, and let it rest for 15 minutes. Preheat the oven to 425°F while the dough rests.
-
-    Continue to stretch the dough to cover the bottom of the pan, then gently push it up the sides of the pan. The olive oil may ooze over the edge of the crust; that's OK. Let the crust rest for another 15 minutes.
-
-    Bake the crust for 10 minutes, until it's set and barely beginning to brown. While it's baking, prepare the filling.
-
-    Drain the tomatoes thoroughly. Combine them with the Pizza Seasoning or herbs, and the garlic and sugar (if you're using them). Add salt to taste; you probably won't need any additional salt if you've used the Pizza Seasoning.
-
-    Cover the bottom of the crust with the sliced mozzarella, fanning it into the crust. Add the sausage (or sautéed vegetables), then the tomato mixture.
-
-    Sprinkle with the grated Parmesan, and drizzle with the olive oil.
-
-    Bake the pizza for about 25 minutes, or until the filling is bubbly and the topping is golden brown. Remove it from the oven, and carefully lift it out of the pan onto a rack. A giant spatula is a help here. Allow the pizza to cool for about 15 minutes (or longer, for less oozing) before cutting and serving.
-
-Tips from our Bakers
-
-    For individual deep-dish pizzas: Grease the wells of an individual hamburger bun pan. Divide the risen dough into 12 equal pieces; if you have a scale, each piece will weigh about 2 1/2 ounces. Roll each piece into a tight ball, then cover six of them and transfer to the refrigerator. Allow the remaining six balls of dough to rest, covered, at room temperature for 20 minutes. Stretch an unrefrigerated dough ball to cover the bottom of a well, then push it up the sides of the pan. Repeat with the remaining dough. After a 15-minute rest, bake the individual crusts for 10 minutes until they're set and barely beginning to brown. Fill, then bake the pizzas for another 20 to 25 minutes, until the filling is bubbly and the topping is golden brown. Repeat with the remaining (refrigerated) dough.
-
-    Deep-dish pizza has a long history in the city of Chicago, where it's revered as a delicious native invention. The crust, based on a recipe whose supposed provenance is Chicago's Pizzeria Uno, has an unusual flaky/tender texture, and great taste — courtesy of three types of fat: vegetable oil, olive oil, and butter. Also, the tiny bit of cornmeal adds subtle but delightful crunch.
-
-
-
-https://giordanos.com/how-to-make-the-perfect-chicago-style-pizza/
-
-
-
-Giordano’s Deep Dish Pizza Recipe
-
-Our Chicago deep dish pizza recipe makes two beautiful pies stuffed with mouth-watering mozzarella and any of your other favorite toppings. For the best results, be sure to carefully read the entire recipe before starting the cooking process. If you plan to make both pizzas at the same time, you will need 2 deep dish 9-by-2-inch round cake pans or 9-inch springform pans.
-
-Yields: 2 deep dish 9-inch pizzas
-
-Serving size: 1 slice of pizza
-
-Number of servings: 8 per pizza
-
-Calories: 525 calories, depending on additional toppings
-
-Fat content: 34 grams, depending on additional toppings
-
-Prep time: 4 hours, includes rising time
-
-Cook time: 30 minutes
-
-Total time: 4 hours and 30 minutes
-
-Pizza dough ingredients:
-
-    3 1/4 cups of all-purpose flour
-    1/2 cup of yellow cornmeal
-    1 1/4 teaspoons of fine sea salt
-    1 tablespoon of granulated sugar
-    2 1/4 teaspoons of active dry yeast — the size of a standard packet
-    1 1/4 cups of warm water
-    4 tablespoons of unsalted butter, softened to room temperature
-    4 tablespoons of unsalted butter, melted
-    About 3 tablespoons of olive oil for coating
-
-Pizza sauce ingredients:
-
-    2 tablespoons of olive oil, divided
-    1 tablespoon of unsalted butter
-    1/2 of a red onion, minced
-    1 teaspoon of salt
-    1 teaspoon of black pepper
-    1/2 teaspoon of Italian seasoning mix
-    1/4 teaspoon of crushed red pepper flakes
-    3 cloves of garlic, minced
-    One 28-ounce can of unsalted, crushed tomatoes
-    1 teaspoon of granulated sugar
-    2 tablespoons of fresh basil, chopped
-
-Toppings:
-
-    4 cups of mozzarella cheese, shredded
-    1/2 cup of Parmesan cheese, grated
-    Additional toppings, such as pepperoni, crumbled sausage, ham, bacon, mushrooms, green peppers, black olives, artichokes, pineapple, spinach, red onions or whatever else you desire
-
-Prep the pizza dough:
-
-    Combine the flour, cornmeal, sea salt, sugar and active dry yeast in the bowl of a stand mixer fitted with the dough hook attachment. Mix the ingredients together on low. If you don’t have a stand mixer, you can use a hand mixer and a large bowl. You can also mix the ingredients by hand.
-    Stir in the warm water and melted butter, making sure both have cooled enough that they will not kill the yeast.
-    Beat the ingredients together on a low speed until the dough becomes soft and supple. The mixture should start to gently pull away from the sides of the bowl and fall off the dough hook after about 5 minutes of mixing.
-    Remove the dough from the bowl and roll it into a ball.
-    Place the ball of dough into a lightly greased mixing bowl and rotate the dough until all of its sides are coated in the olive oil.
-    Tightly cover the bowl with tin foil and allow the dough to rise in a warm environment until it doubles in size — about 1 or 2 hours.
-    After the dough rises, lightly flour a workspace and set the dough on the counter. Gently punch the dough down to get rid of air bubbles before rolling the dough into a large rectangle.
-    Spread the softened butter on top of the dough, then roll the dough up lengthwise into a log.
-    Cut the log of dough in half and form the 2 pieces of dough into balls.
-    Place the dough back into the large greased bowl, re-cover it with tin foil and let it rise in the refrigerator for about an hour until the dough is puffy.
-
-Make the pizza sauce:
-
-    As the dough rises, make the pizza sauce by combining 1 tablespoon of olive oil and the butter in a saucepan over medium heat.
-    Mix in the minced onion, Italian seasoning, crushed red pepper, salt, and pepper, and cook until the onion softens.
-    Add the garlic and cook until fragrant.
-    Pour in the tomatoes and sugar, then bring the sauce to a simmer.
-    Lower the heat and continue stirring for about half an hour until the sauce has reduced.
-    Remove from the heat and sprinkle in the fresh basil and remaining olive oil.
-
-Assemble and bake the pizza:
-
-    Preheat oven to 475 degrees — the oven needs to be hot to accommodate the pizza’s depth! 
-
-(or 425??)
-
-    Use a solid metal pan, preferably a deep-sided iron skillet, and melt a thin layer of butter in the pan.
-    Roll the dough to about 1/3-inch thick and large enough in circumference so it can be placed in the pan with about 1/2 inch hanging over the edges. Place the dough in the pan.
-    Place your protein ingredients in the bottom of the pan. High-fat proteins such as bacon or salami should go on the top. In this instance, add them after step 9.
-    Top the pan with handfuls of shredded mozzarella cheese. Giordano’s uses 100% Wisconsin mozzarella!
-    Top with veggies of choice.
-
-    The Giordano’s secret: Roll out another round layer of dough large enough in circumference to cover the top of the pan. Lay the dough on top like you are topping a pie. Tear 5 or 6 holes in the dough for ventilation — you must do this step! Crimp the edges of the dough around the edges of the pan to create a seal, just like a pie.
-
-        -- make sure the top 'middle' crust is very thin, barely there
-
-    With a knife, trim the edges of the dough at the top of the pan to remove the excess.
-    Top with a 1/4 inch of your favorite pizza or tomato sauce. Pro tip: make sure the consistency of the sauce is not too thick, or it can burn.
-    Top with a sprinkle of grated Parmesan cheese.
-    Bake for 25-30 minutes, until the crust is golden brown or the internal temperature is 180 degrees.
-
-         -   bake for 30 minutes, then cover edge of crust with aluminum foil to avoid burning
-
-    Slice, serve and enjoy!
-
-Now that the secret is out, you can whip together a delectable stuffed pie any time you want! Making our famous stuffed pizza takes time, and it can be a great activity for the whole family! The kids can help with toppings and rolling the dough, making it a fun family memory. If you’re in a pinch or you want the original pie, you can always order online! And if you aren’t located near one of our restaurants, you can ship pizzas directly to your home!
-
-
-5 Tips for Making the Best Deep Dish Pizza
-1. Get the Dough Right
-
-The crust is essential to making this pizza successful. It’s got to be thick enough to withstand the weight of the toppings, yet buttery and light enough that it doesn’t cause you to flop into bed right after eating it. And you have to make sure the crust bakes the whole way through. Raw dough in the center will not only be a heart-dropping disappointment to the home chef, but it will make your dinner guests wait even longer to fill their bellies.
-
-Letting the dough rise for several hours — and sometimes more than once — ensures it’s the perfect combination of thick and doughy, as well as fluffy and light. If you’re making a stuffed pizza, the crust can be even more tricky. The middle crust can’t be as thick as the bottom crust. That’s just no good. Instead, it’s got to be airy, barely-there thin and, of course, delicious.
-2. Take Your Time With the Sauce
-
-While the sauce doesn’t get placed on the pizza until the end, it still requires a lot of love and attention. In fact, a good sauce can take hours to perfect. There’s a lot of slicing, dicing and simmering that goes into a well-made sauce. While fresh ingredients are important as toppings, they are just as important in the sauce. The tastiest tomatoes, right mix of herbs and carefully prepared peppers, onions and other veggies make the sauce stand out.
-
-If you’re trying to make your own sauce, use a bit of butter to soften the onion and peppers. Fresh tomatoes can give the sauce a unique taste, especially if you don’t have hours to spend simmering out the aftertaste often found in canned tomatoes. And don’t forget the right mix of herbs and spices. Red pepper flakes, garlic, basil, oregano and a large dash of salt can turn a boring sauce into a tasty one you’ll want to lick off the plate. These flavorful additions should be enough to boost the sauce but not overwhelm it. You want all of the ingredients in the pizza to work well together, and they do that if each one has been given the most loving amount of attention.
-
-3. Select the Best Toppings
-
-Pizza toppings are sometimes the flavor carriers of this meal. If you’re choosing meats, make sure you don’t skimp by grabbing the cheapest stuff on the shelf. Instead, look for high-quality ingredients that have been created with care. Whether you’re dicing pepperoni or browning spicy sausage, you don’t want these toppings to weaken the rest of the pie.
-
-The vegetables are just as important here. Fresh instead of canned or frozen is often the way to go when selecting pizza toppings. Dice peppers, onions, mushrooms and other vegetable toppings into small chunks. This makes them easier to stuff inside the pizza and better for biting into the slice. You’ll need that fork power to get through the thick crust and gooey cheese.
-
-You don’t have to stick to the traditional toppings, either. Get creative with your pizza, kicking it up a notch with a barbecue and chicken flavor combination or a fresh bite of spinach and garlic. Pizza can be as delicious and creative as you want, so don’t be afraid to think outside the box.
-
-4. Don’t Skimp on the Cheese
-
-Whichever classic pizza cheese you pick — mozzarella, provolone, Parmesan or blends of your favorites — make sure your cheese will melt to a gooey, stringy stretch. A high-quality cheese with just the right amount of fat will bubble and melt to perfection. You want the cheese to stretch as you cut away at the slice. That’s one of the classic characteristics of the best pizza in Chicago.
-
-5. Bake It Just Right
-
-How you bake it can be the breaking point in your pizza-making process. When baking at home, use a cake pan. These are often the deepest ones you can find at home, and they can hold most of the ingredients for this deep dish pizza. Grease the pan so that your delicious crust doesn’t get stuck to the pan. That little error can ruin the whole meal.
-
-Next, make sure you assemble the ingredients in the right order — dough, toppings, cheese, dough (again!) and the sauce. It can be messy if it isn’t done right. Also, make sure that each type of ingredient is evenly distributed. You don’t want too much cheese and not enough toppings. Assembling a stuffed pizza is a balancing act.
-
-Preheat the oven to at least 425 degrees and bake the pizza for about 30 minutes. Halfway through, it’s a good idea to place some foil over the top so the edge of the crust doesn’t burn in the oven. Keep an eye on the pizza, make sure it cools enough so you don’t burn yourself and get ready to enjoy a pizza style known as a city classic.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Understanding Chicago Pizza Lingo
-
-There are a lot of terms that get tossed around when it comes to describing Chicago’s famous pizza. To understand the best pizza in Chicago, you need to know the styles.
-Deep Dish
-
-Perhaps the most famous of all Chicago style pizzas, the deep dish pizza has solidified the Chicago pizza as a food of legend. The crust supports thick layers of mozzarella cheese and a hefty, chunky-style sauce that has helped make the pizza so well known.
-Stuffed Pizza
-
-A form of deep dish pizza, you don’t want to underestimate this bad boy. You’ll need to bring an appetite to conquer this huge pizza. We have arguably the best Chicago-style pizza, and stuffed pizza is the style that Giordano’s is best known for. While the sturdy base crust upholds the entire pizza, it’s the slim, flaky bonus layer of crust in between the sauce and the cheese that qualifies the pie as “stuffed.” This layer is so thin that some people don’t even notice it. It almost melts between the gooey layer of cheese and the hot, saucy layer of tomato that sits on top.
-Pan Pizza
-
-This style of pizza is one that might seem the most familiar to people who are new to Chicago-style pizza. Caramelized bits of cheese decorate the crust, and the classic Chicago-style sauce tops it all in deliciousness.
-What Makes Chicago Pizza Different From the Rest?
-
-There are almost as many pizza styles as there are major cities in the United States. How do you possibly distinguish all the differences? Here’s a quick breakdown to help make the styles of pizza more distinguishable and remind you why Chicago-style pizza is the king of pizzas.
-New York Style Pizza
-
-This famous city pizza is often distinguished by its hand-tossed crust. It bakes up thin and is often served in large slices, often bought individually so busy New Yorkers can eat it on the go. Folding the pizza in half to get a bite is a practice that started in this city.
-Ohio Valley Style Pizza
-
-Two main things make this pizza distinct. First, it’s baked in a square pan and sliced not in the classic triangle shapes, but in individual squares. Second, the cheese isn’t melted the whole way. This pizza is baked first and then the cheese is sprinkled on top as it comes out of the oven, giving it a sharper texture and less gooey mouth feel.
-
-Philadelphia’s Tomato Pie
-
-A unique pizza of its own, the Philadelphia tomato pie is baked in long sheets. The sauce, which is cooked down with herbs and spices until it’s thin, is placed on top of the extra thick dough. The topping? Just some grated cheese.
-California Style Pizza
-
-Less traditional, the California-style pizza often has odd toppings. Ever have a pie with avocado, egg or ostrich on it? You can likely find it here.
-Chicago Style Is the Best
-
-Where else can a single slice of pizza fill your belly? Chicago-style pizzas are hearty and unique, filled to the brim with fresh and tasty toppings, the best cheeses in the world and the most robust tomato sauce. You really want to eat a different kind of pie? Then you want to eat a slice of the best Chicago-style pizza.
+# Chicago-Style Deep Dish Pizza
+Recipe by PJ Hamel, King Arthur Baking  
+[Recipe Source](https://www.kingarthurbaking.com/recipes/chicago-style-deep-dish-pizza-recipe)
+
+## Crust Ingredients
+- 4 cups (480g) King Arthur Unbleached All-Purpose Flour
+- 3 tbsp (35g) yellow cornmeal
+- 1 3/4 tsp (11g) salt
+- 2 3/4 tsp instant yeast
+- 2 tbsp (25g) olive oil
+- 4 tbsp (57g) butter, melted
+- 2 tbsp (25g) vegetable oil
+- 1 cup + 2 tbsp (255g) lukewarm water
+
+## Filling Ingredients
+- 3/4 lb mozzarella cheese, sliced
+- 1 lb Italian sweet/hot sausage, cooked/sliced or sautéed vegetables
+- 28-oz can plum tomatoes, lightly crushed
+- 2-4 garlic cloves, minced (optional)
+- 1 tbsp granulated sugar (optional)
+- 1-2 tsp Pizza Seasoning or mixed dried Italian herbs
+- 1 cup (113g) freshly grated Parmesan or Asiago cheese
+- 2 tbsp (25g) olive oil
+
+## Instructions
+1. Mix crust ingredients; knead to make a smooth crust. Let rise for 60 minutes.
+2. Grease a 14" deep-dish pizza pan with oil, covering the bottom and sides.
+3. Stretch dough in the pan, let rest for 15 minutes. Preheat oven to 425°F.
+4. Continue stretching dough up the sides of the pan. Let rest for 15 more minutes.
+5. Bake crust for 10 minutes. Prepare filling by draining and seasoning tomatoes.
+6. Layer mozzarella, sausage/vegetables, tomato mixture in crust. Top with Parmesan, drizzle with oil.
+7. Bake for about 25 minutes until filling is bubbly and topping is golden brown.
+8. Cool for 15 minutes before serving.
+
+## Tips from Our Bakers
+- For individual pizzas: Use a hamburger bun pan. Divide risen dough into 12 pieces. Bake individual crusts, fill, then bake for 20-25 minutes.
+- Deep-dish pizza's crust has a flaky/tender texture, made with vegetable oil, olive oil, and butter. Cornmeal adds a subtle crunch.

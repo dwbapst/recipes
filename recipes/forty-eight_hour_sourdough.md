@@ -1,21 +1,29 @@
-48-hour Homemade Sourdough
-   From Ara Kooser
+# 48-hour Homemade Sourdough
+### From Ara Kooser
 
-Mix 2 cups flour, 2 cups hot water, 1 TSP salt.
+#### Ingredients:
+- 2 cups flour
+- 2 cups hot water
+- 1 teaspoon salt
+- Additional flour for later steps
+- Warm water for later steps
 
-Let stand uncovered for 24 hours.
+#### Directions:
 
-Then add 1/2 cup flour and warm water til thin. Leave for another 24 hours.
+1. Mix 2 cups flour, 2 cups hot water, and 1 teaspoon salt together in a large bowl.
+2. Let the mixture stand uncovered for 24 hours.
+3. After 24 hours, add 1/2 cup flour and enough warm water to the mixture until it is thin.
+4. Leave the mixture for another 24 hours.
+5. Gradually add flour to the dough until it becomes tacky in texture.
+6. Fold the dough once every hour for three hours.
+7. Preheat your oven to 425°F (220°C) with a Dutch oven inside.
+8. Place the dough in the preheated Dutch oven and bake for 25 minutes with the lid on.
+9. Remove the lid and finish baking for an additional 20 minutes.
 
-Add flour until the dough becomes tacky. Fold once and hour for three hours. Then bake at 425 in a Dutch oven for 25 mins, uncover and finish for 20 mins.﻿
-
-Notes:
- It's basically like making a very quick over-night poolish and then making the entire poolish into a loaf. Seems logical but I hadn't encountered the idea anywhere else, which makes me wonder if there's a reason people don't usually do this.
-
- Drys out very quickly, at least in South Dakota. Need to cover with plastic wrap or keep in puddle of water with constant over-turning so top of dough doesn't dry out.
- 
- Constant addition of flour and water over the 48 hour period mean my end result was about 4 cups of flour, not 2.5 cups.
- 
- Smells terrible on inside of loaf for first 24 hours (mix of strong sour and alcohol vapors). Maybe let sit for more than day before trying to eat? Surely, there doesn't seem to be any way that the dough could actual contract food poisoning, as bacteria that harm humans can't live off of flour and water.
- 
- Strong pungent taste even after 24 hours has passed; best with butter and cheese. Does not seem to go stale very quickly.
+#### Notes:
+- This recipe is similar to making a very quick overnight poolish, then making the entire poolish into a loaf.
+- The bread tends to dry out quickly, especially in dry climates like South Dakota. Keep it covered with plastic wrap or place in a puddle of water, constantly turning it to prevent the dough's surface from drying out.
+- Expect to use about 4 cups of flour in total due to repeated addition throughout the 48-hour period.
+- The inside of the loaf may smell strongly of sour and alcohol vapors for the first 24 hours. It may be better to let it sit for more than a day before trying to eat it as the smell might be overpowering initially.
+- Despite the strong smell, the loaf should not develop harmful bacteria, as these organisms cannot thrive on flour and water alone.
+- The sourdough can have a strong and pungent taste, even after 24 hours of baking. It pairs well with butter and cheese and has a relatively long shelf life without going stale.

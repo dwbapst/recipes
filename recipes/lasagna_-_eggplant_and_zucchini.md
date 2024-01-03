@@ -1,50 +1,51 @@
-Veggie Low-Fat Lasagna
+# Veggie Low-Fat Lasagna
 
-Lasagna Noodles (1 Box)
-1.5 bottles of marinara sauce
-1 Chopped Onion
-Sliced Zucchini, Yellow Squash
-Diced Eggplant
-Chopped Garlic
-Egg Whites (1 Cup-ish)
-Fat-Free Ricotta Cheese (15 oz, small container)
-Low-Fat Shredded Mozzarella Cheese
-Optional: Shredded Parmasan Cheese
+## Ingredients
 
-1) Greese pan, spread a quarter of a bottle of marinara on bottom
-	NOTE: save remaining quarter for the end!
-2) Sautee the eggplant, onion and garlic 
-3) Add the zucchinni and squash halfway through
-4) Boil noodles
-5) When veggies are cooked, add marinara, season
-6) When noodles are done, lay out on flat objects
-7) Mix Ricotta, egg whites, mozzarella, parmasan (if have any)
-   -Make sure to add enough egg white so somewhat soupy
-7b) BEGIN PREHEATING OVEN NOW!
-8) Put down noodles, cover in cheese mix, then put on some sauce
-	NOTE: use up cheese sauce and veggies+sauce mix before last noodle layer!
-9) repeat layering until the last layer, which is just sauce (that left-over quarter!)
-10) Bake 20 min at 375 with aluminum foil cover
-	NOTE: Consider putting a larger pan underneath to catch any unwanted drippings!
-11) Add mozzarella cheese on top
-12) Recover with foil and bake 10 min more
+- Lasagna Noodles (1 Box)
+- 1.5 bottles of marinara sauce
+- 1 Chopped Onion
+- Sliced Zucchini, Yellow Squash
+- Diced Eggplant
+- Chopped Garlic
+- Egg Whites (1 Cup-ish)
+- Fat-Free Ricotta Cheese (15 oz, small container)
+- Low-Fat Shredded Mozzarella Cheese
+- Optional: Shredded Parmesan Cheese
 
-Enjoy! The only fat is in the mozzarella/parmasan.
+## Instructions
 
-Can also try it with more ricotta, but maybe that's too much?
+1. Grease pan and spread a quarter of a bottle of marinara sauce on the bottom.
+   - **NOTE**: Save the remaining quarter for the end!
+2. Sauté the eggplant, onion, and garlic.
+3. Add the zucchini and squash halfway through.
+4. Boil noodles according to the package instructions.
+5. Once the vegetables are cooked, add marinara to the pan and season to taste.
+6. Drain the noodles and lay them out on flat surfaces to cool.
+7. In a separate bowl, mix the ricotta, egg whites, mozzarella, and parmesan (if using). Ensure the mixture is somewhat soupy by adding enough egg whites.
+8. Begin preheating the oven at this point.
+9. Layer noodles at the bottom of the pan, cover with cheese mixture, then add some sauce and vegetables.
+   - **NOTE**: Use up the cheese sauce and vegetable sauce mix before the last noodle layer!
+10. Repeat the layering process, ending with a layer of noodles topped with the reserved quarter bottle of marinara sauce.
+11. Cover with aluminum foil and bake at 375°F for 20 minutes.
+    - **NOTE**: Consider placing a larger pan underneath to catch any drippings.
+12. Remove from the oven, add more mozzarella cheese on top, then recover with foil and bake for another 10 minutes.
 
+Enjoy your low-fat veggie lasagna!
 
-Alternative with Spinach and Mushroom (no eggplant, onion or zucchinni)
-	Need enough mushroom to fill frying pan
-	Need enough spinach to fill BIG pot! (THAT'S ONE GIANT THING OF SPINACH)
-Need Spinach and portobello mushrooms
+## Alternate Version: Spinach and Mushroom (no eggplant, onion, or zucchini)
 
--instead of (2) and (3)...
--Chop up about 3 cloves of garlic. Put half in a big pot.
--Sort good leaves of spinach, removing stems. Should be enough to fill big pot.
--Rinse and put in big pot. Put on low-low heat with top on to simmer spinach.
--Take several big Portobello mushrooms, clean well, but leave gills on.
--Take oil and butter and other half of garlic and put in pan. Heat until butter melts.
--Put mushrooms in gill-side down. Salt. Saute mushrooms until muchroom juices run.
--Mix mushrooms and spinach into 1 jar of marinara sauce. Season.
--Go on to (4)
+- Sufficient mushrooms to fill a frying pan (Portobello recommended)
+- Enough fresh spinach to fill a large pot (remove stems)
+- Additional garlic (about 3 cloves)
+
+For the alternate version:
+
+1. Halve the garlic. Put one half in a large pot.
+2. Prepare spinach, removing stems to fill the pot.
+3. Rinse spinach and simmer on low heat with the lid on.
+4. Clean mushrooms well, keeping gills on.
+5. Heat oil, butter, and remaining garlic in a pan. Once butter melts, add mushrooms gill-side down, season with salt.
+6. Sauté mushrooms until they release their juices.
+7. Combine cooked mushrooms and simmered spinach with one jar of marinara sauce and season as desired.
+8. Continue with step 4 from the main recipe.

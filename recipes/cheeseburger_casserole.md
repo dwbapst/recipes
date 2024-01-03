@@ -1,64 +1,35 @@
-Cheeseburger Casserole
-https://www.skinnytaste.com/cheeseburger-casserole/
+# Cheeseburger Casserole
+[Recipe Source](https://www.skinnytaste.com/cheeseburger-casserole/)
 
-Total Time: 45 minutes
+*Total Time: 45 minutes*
 
-Kid-friendly and delicious! If you’re a cheeseburger lover, and the thought of ground beef, tomatoes, pickles and cheese tickles your fancy, then this truly American, comforting Cheeseburger Casserole is for you!
+A kid-friendly and delicious casserole perfect for cheeseburger lovers.
 
-Ingredients:
+## Ingredients
+- 2 cups (6 oz) uncooked rotini pasta (brown rice pasta for GF)
+- 2 tsp olive oil
+- 1 1/2 cups onions, finely chopped
+- 1 garlic clove, finely chopped
+- 1 lb lean ground beef (95% lean) or veggie ground
+- 3/4 tsp salt
+- 1/2 tsp black pepper
+- 2 tbsp tomato paste
+- 28 oz diced tomatoes
+- 2 cups reduced-fat grated cheddar cheese
+- Optional: 1/4 cup chopped dill pickles, 2 tbsp Dijon mustard
 
-    2 cups (6 oz) uncooked rotini pasta (use brown rice pasta for GF)
-    2 tsp olive oil	
-    1 1/2 cups onions, finely chopped
-    1 garlic clove, finely chopped
-    1 lb lean ground beef (95% lean) / OR VEGGIE GROUND
-    3/4 tsp salt
-    1/2 tsp black pepper
-    2 tbsp tomato paste
-    28 oz diced tomatoes
-    2 cups reduced-fat grated cheddar cheese
+## Directions
+1. Cook pasta al dente and drain.
+2. In a skillet, heat oil. Cook onions until soft, add garlic, then beef. Season and cook until browned.
+3. Stir in tomato paste and tomatoes (add Dijon mustard if desired). Simmer until slightly thickened.
+4. Toss pasta with the tomato mixture, top with cheese. Cover to melt cheese.
+5. Optionally, sprinkle with chopped pickles before serving.
 
-Directions:
+## Nutrition Information
+- Yield: 9 servings
+- Serving Size: 1 cup
+- Calories: 261
+- Protein: 21.5g
 
-In a large pot of boiling salted water, cook the pasta according to the package directions for al dente and drain well.
-
-In a extra-large skillet, heat the oil over medium-low heat. Add the onions and cook until soft, about 5 minutes.
-
-Stir in the garlic and cook for 30 seconds.
-
-Stir in the beef and cook until browned; season with salt and pepper.
-
-Stir in the tomato paste, then add the tomatoes. If desired, add 2 tbsp Dijon Mustard (this is an acquired taste).
-
-Let the mixture bubble gently until it is slightly thickened, about 2 minutes.
-
-Toss the pasta into the skillet with the tomato mixture and top with shredded cheddar. Cover and let sit to melt cheese. 
-
-
-
-Nutrition Information
-Yield: 9 servings, Serving Size: 1 cup
-    Amount Per Serving:
-    Freestyle Points: 5
-    Points +: 7
-    Calories: 261 calories
-    Total Fat: 9g
-    Saturated Fat: g
-    Cholesterol: mg
-    Sodium: 468.5mg
-    Carbohydrates: 21.5g
-    Fiber: 2g
-    Sugar: 3g
-    Protein: 21.5g
-
-
-# notes
-
-original recipe called for 
-
--Preheat the oven to 350 degrees. Spray a 9 x 13 inch baking dish with cooking spray.
--Toss the meat mixture with the pasta and spread it into the prepared dish.
--Top with the cheddar and bake until the cheese is melted, about 15 minutes. Sprinkle the chopped pickles over the top and serve.
-
--1/4 cup chopped dill pickles
--At the end: Sprinkle the chopped pickles over the top and serve.
+## Notes
+- Original recipe included baking the casserole with a topping of melted cheddar and chopped pickles.

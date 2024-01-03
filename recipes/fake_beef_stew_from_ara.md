@@ -1,16 +1,20 @@
-Fake Beef Stew
-Carrots, potatoes, onions, garlic in an oven proof dish. Coat lightly with oil, salt, rosemary, thyme, and black pepper. Cover with foil. Roast at ~400F. Ever so often shake the pan. You want things fairly well caramelized.
+# Fake Beef Stew
 
-While this is going on get your crock pot going on medium with about 2 cups of water with 2 teaspoons of Fake Beef Better then Bullion added in. Toss in 2 bay leaves, a couple of chopped shallots, and a little cayenne. I used chipotle instead.
+## Ingredients
+- Carrots, potatoes, onions, garlic
+- Olive oil, salt, rosemary, thyme, black pepper
+- 2 cups water with 2 tsp Fake Beef Better Than Bouillon
+- 2 bay leaves, a few chopped shallots, cayenne or chipotle
+- 1 cup red wine or stout
+- Mushrooms
+- Seitan
 
-When the roasted veggies are done pull out the pan. They should be lightly burnt. Deglaze with 1 cup of red wine or one cup of stout. Toss all this into the crock pot.
+## Directions
+1. Preheat oven to ~400°F. Place carrots, potatoes, onions, and garlic in an ovenproof dish. Coat with oil, salt, herbs, and pepper. Cover with foil and roast, shaking occasionally, until caramelized.
+2. In a crock pot on medium, add water with bouillon, bay leaves, shallots, and cayenne/chipotle.
+3. Deglaze the roasted veggies with wine/stout, add to crock pot.
+4. Brown sliced mushrooms in a skillet and add to crock pot.
+5. In the last hour, brown seitan and add to stew.
+6. Optional: Thicken with a roux for a fake meat pie. For tastier seitan, pour fake beef broth over it after browning and reduce.
 
-In a skillet slice your mushrooms and brown on both sides. Add to crock pot. Let simmer away.
-
-Near the last hour of cooking brown your seitan in a pan with some oil. Toss into the stew.
-
-*You don't need a crock pot. This can all be done stovetop a well.
-
-** You can thicken this with a roux and make a fake meat pie too!!!!
-
-* For tastier seitan pour fake beef broth over the seitan after it's browned and reduce the sauce
+*Can be done stovetop as well.

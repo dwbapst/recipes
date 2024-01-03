@@ -1,42 +1,34 @@
- Pan a l'Ancienne
+# Pan a l'Ancienne (Classic French Baguettes)
 
-Makes 3-4 [6-8] baguettes
+**Makes**: 3-4 [or 6-8] baguettes
 
-3 [6] cups flour
-	(recipe says 100% bread flour, I prefer 2/3rds AP, 1/3rd bread)
-1.12 [2.25] tsp salt
-1 [1.75] tsp instant yeast
-1.12 [2.25] cups ice-cold water
-~1 cup more of ice-cold water
+## Ingredients
 
-1) To get ice-cold water, put water in the fridge, add ice cubes, wait a few minutes. Should be 40 deg F.
+- 3 [6] cups flour (100% bread flour recommended; can use 2/3 all-purpose, 1/3 bread flour)
+- 1.12 [2.25] tsp salt
+- 1 [1.75] tsp instant yeast
+- 1.12 [2.25] cups ice-cold water
+- ~1 cup more of ice-cold water
+- Flour for dusting
+- Cornmeal for dusting (optional)
+- Vegetable oil for greasing
 
-2) Mix the flour, sal, yeast and that first portion of water. Try to mix with as little with your hands as possible (so the dough remains cold). Add water, a little at a time, until the dough is nice and very sticky. Dough should be very sticky, but just enough to stick to bottom of bowl but not the sides. Knead for 5-6 minutes.
+## Instructions
 
-3) Cover bowl with plastic wrap and place in the fridge overnight to retard rising. (6-8 hours) Preferably, the door should be opened as little as possible.
-
-4) Next day, flour should have risen only a little at most (the less rise, the better... an atypical situation in baking). Take the flour out and let it loose its chill (perhaps by putting the bowl on a hot stove), wake up and start rising.
-
-5) Wait until the dough has doubled, 2-3 hours or so.
-
-6) After the first hour or two, place a pizza stone and a sheet pan with edges that you don't care much about in the oven, with the pan beneath the stone. Start heating the oven to 500 degrees. Allow to preheat for 45 minutes so the stone is nice and hot.
-
-7) Lightly oil a sheet of parchment paper, same size as the pizza stone, on top of a breadmaker's paddle (or an over-turned sheet pan). You may also want to dust with cornmeal. Put a considerably amount of flour on the counter.
-
-8) Transfer dough from the bowl to the floured counter very carefully, and flour the top. A bowl scraper dipped in water may be useful/necessary. Very carefully, without degassing the dough, you your hands to shape into a roundish, flat oblong. The dough should still be very sticky.
-
-9) Use a bread scraper or a rocking pizza cutter to slice the dough into two equal pieces. This should be a pincher action, not a sawing action. Repeat until you have strips of dough that are reasonably sized for your personal preference in baguettes.
-
-10) Stretch dough strips to baguette length, keeping in mind the size of the pizza stone, and transfer to the parchment paper. You will only be able to fit 3-4 baguettes at a time. Shape the loaves slightly and very carefully, folding dough so that the seam is pulled under the loaf.
-
-10a) Fill a spray bottle with warm water, and get 2-3 cups of water ready.
-
-11) Let the dough relax for 5 minutes, possibly with plastic wrap covering the dough. Then score the tops with 3-4 long diagonal cuts, close to but not quite parallel to the axes of the loaves.
-
-12) Open oven and manuever parchment paper, with bread, onto pizza stone. Dump 2-3 cups of water in the pan.
-
-13) Wait 30 seconds, then open oven door and spray the walls of the ozen like mad. Repeat again, in another 30 seconds. Then reduce oven heat to 475 degrees.
-
-14) Wait 6-8 minutes and double check color of bread. Rotate parchment paper if bread is baking unevenly. Otherwise, wait another 10-15 minutes. Bread should have dark brown color when done.
-
-15) Remove from oven and let cool on a rack for 20 minutes.
+1. To prepare ice-cold water, refrigerate water with ice cubes until it reaches 40°F.
+2. Mix the flour, salt, yeast, and the first portion of water. Add water little by little, mixing to a very sticky consistency without over-handling (to keep the dough cold). Knead for 5-6 minutes.
+3. Cover and refrigerate overnight to retard rising, minimizing door opening to keep it cold.
+4. The next day, let the dough come to room temperature and begin to rise until doubled (2-3 hours).
+5. An hour or two before baking, place a pizza stone and a sacrificial sheet pan in the oven and preheat to 500°F. Preheat for 45 minutes.
+6. Lightly oil and optionally dust a parchment paper with cornmeal on a breadmaker's paddle or inverted sheet pan.
+7. Transfer the dough to a well-floured counter very carefully to preserve gases, and shape into a flat oblong.
+8. Cut the dough into two equal pieces, then into strips for baguettes using a pinching action.
+9. Stretch the strips to fit the size of the pizza stone and place them on the prepared parchment paper.
+10. Shape the loaves by folding the seams under.
+10a. Have a spray bottle with warm water and 2-3 cups of water on hand.
+11. Let the shaped dough rest for 5 minutes, covered with plastic wrap.
+12. Score the tops of the loaves with 3-4 diagonal cuts.
+13. Slide the parchment paper onto the pizza stone and pour the water into the heated pan.
+14. Spray the oven walls twice at 30-second intervals, then reduce heat to 475°F.
+15. Check for a dark brown color after 6-8 minutes, rotate if necessary, then bake for another 10-15 minutes.
+16. Remove from the oven and cool on a rack for 20 minutes.
