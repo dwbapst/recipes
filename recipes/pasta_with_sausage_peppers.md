@@ -4,7 +4,7 @@ Inspired by a recipe from [Primavera Kitchen](https://www.primaverakitchen.com/i
 
 ## Ingredients
 
-- Penne Pasta
+- Pasta (Penne Pasta, Bowtie Pasta, whatever)
 - Italian Sausage, Smoked Polish Sausage, etc.
 - 1 White Onion, sliced into 1-inch pieces
 - 1 Red Onion, sliced into 1-inch pieces

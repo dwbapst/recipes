@@ -4,15 +4,16 @@
 
 ### Dinners We Often Have
 
-- [Barbeque Chicken](./recipes/barbeque_chicken.md)
+- [Barbeque Chicken Breasts for the Grill](./recipes/barbeque_chicken.md)
+- Barbecue Chicken Wings and Drumsticks for the Oven
 - [Beer Battered Fish](./recipes/beer_battered_fish.md)
 - Beef Roast Stew with Potatoes, Onion, Carrots, Parsnip and Turnip from the Slow-Cooker
 - Breakfast for Dinner
 - [Cheeseburger Casserole](./recipes/cheeseburger_casserole.md)
 - [Chicken Parmesan](./recipes/chicken_parmesan.md)
 - [Chicken Pot Pie](./recipes/chicken_pot_pie.md)
-- Enchiladas 
-- Ground Turkey Chili with Black Beans, Pinto Beans, Onion, Tomatoes and Sweet Peppers
+- Enchiladas with Shredded Chicken
+- Ground Turkey Chili with Black Beans, Pinto Beans, Onion, Tomatoes and Sweet Bell Peppers
 - [Mediterranean Yogurt-Marinated Chicken Kebabs](./recipes/mediterrean_yogurt-marinade_chicken.md) with fresh spinach, hummus , couscous/quinea and pita bread
 - Oven-Baked Salmon Fillets with Broccoli and White Rice
 - [Pasta with Sausage & Peppers](./recipes/pasta_with_sausage_peppers.md)
@@ -21,10 +22,6 @@
 - Pork Roast Slow-Cooked with Pinto Beans and Onion
 - [Shepherd's Pie](./recipes/shepherd's_pie.md)
 - Steaks on the Barbie (3 mins, flip, 2 mins, then rest) with Oven Roasted Mini-Potatoes
-
-- Bow tie pasta w/ sausage and peppers 
-- Barbecue chicken in oven
-
 
 ### Pizza
 
