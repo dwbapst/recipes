@@ -21,7 +21,12 @@
 - Pork Loin Roasted with Apples, Potatoes, Onion, Carrots, Parsnip in Cider 
 - Pork Roast Slow-Cooked with Pinto Beans and Onion
 - [Shepherd's Pie](./recipes/shepherd's_pie.md)
-- Steaks on the Barbie (3 mins, flip, 2 mins, then rest) with Oven Roasted Mini-Potatoes
+- Steaks on the Propane Grill (3 mins, flip, 2 mins, then rest) with Oven Roasted Mini-Potatoes
+- Salmon Fettucine - pasta with fish, sugarsnap peas, carrots, tossed in olive oil
+- Fajitas with seared chicken breast, roasted peppers, roasted onions, roast corn, beans, guacamole, sour crem
+- Spaghetti with Meatballs
+- Tilapia
+- Oven-Baked Breaded Cod or other Whitefish
 
 ### Pizza
 
@@ -35,10 +40,11 @@
 - [Stovetop Lasagna](./recipes/stovetop_lasagna.md)
 - Pasta Shells Stuffed with Ricotta & Spinach
 
-### Tacos
-- Pork shredded tacos
-- Ground beef tacos 
-- Taco salad 
+### Tacos & Tostadas
+
+- Shredded-pork tacos
+- Ground-beef tacos 
+- Taco salad with veggie-ground
 
 ### Ratatouille
 
