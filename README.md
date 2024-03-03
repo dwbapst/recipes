@@ -11,22 +11,27 @@
 - Breakfast for Dinner
 - [Cheeseburger Casserole](./recipes/cheeseburger_casserole.md)
 - [Chicken Parmesan](./recipes/chicken_parmesan.md)
-- [Chicken Pot Pie](./recipes/chicken_pot_pie.md)
+- [Chicken Pot Pie](./recipes/chicken_pot_pie.md) with cornbread crust
 - Enchiladas with Shredded Chicken
+- Fajitas with seared chicken breast, roasted peppers, roasted onions, roast corn, beans, guacamole, sour cream
+- Grilled Steak with roasted potatoes and brussel-sprouts 
 - Ground Turkey Chili with Black Beans, Pinto Beans, Onion, Tomatoes and Sweet Bell Peppers
 - [Mediterranean Yogurt-Marinated Chicken Kebabs](./recipes/mediterrean_yogurt-marinade_chicken.md) with fresh spinach, hummus , couscous/quinea and pita bread
+- Oven-Baked Breaded Cod/Whitefish with fries
 - Oven-Baked Salmon Fillets with Broccoli and White Rice
 - [Pasta with Sausage & Peppers](./recipes/pasta_with_sausage_peppers.md)
 - [Pad Thai with Chicken](./recipes/padthai_recipe_from_bag.md)
 - Pork Loin Roasted with Apples, Potatoes, Onion, Carrots, Parsnip in Cider 
 - Pork Roast Slow-Cooked with Pinto Beans and Onion
+- Potato salad with brusselsprouts in mustard salad dressing 
+- Seared Ahi Tuna Steaks with fresh salad
 - [Shepherd's Pie](./recipes/shepherd's_pie.md)
 - Steaks on the Propane Grill (3 mins, flip, 2 mins, then rest) with Oven Roasted Mini-Potatoes
 - Salmon Fettucine - pasta with fish, sugarsnap peas, carrots, tossed in olive oil
-- Fajitas with seared chicken breast, roasted peppers, roasted onions, roast corn, beans, guacamole, sour crem
 - Spaghetti with Meatballs
+- Spaghetti with veggie ground 
 - Tilapia
-- Oven-Baked Breaded Cod or other Whitefish
+- Tuna Casserole 
 
 ### Pizza
 
