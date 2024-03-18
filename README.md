@@ -7,48 +7,49 @@
 - [Barbeque Chicken Breasts for the Grill](./recipes/barbeque_chicken.md)
 - Barbecue Chicken Wings and Drumsticks for the Oven
 - [Beer Battered Fish](./recipes/beer_battered_fish.md)
-- Beef Roast Stew with Potatoes, Onion, Carrots, Parsnip and Turnip from the Slow-Cooker
+- Beef-Roast Stew with Potatoes, Onion, Carrots, Parsnip and Turnip from the Slow-Cooker
 - Breakfast for Dinner
 - [Cheeseburger Casserole](./recipes/cheeseburger_casserole.md)
 - [Chicken Parmesan](./recipes/chicken_parmesan.md)
-- [Chicken Pot Pie](./recipes/chicken_pot_pie.md) with cornbread crust
+- [Chicken Pot Pie with Cornbread Crust](./recipes/chicken_pot_pie.md)
 - Enchiladas with Shredded Chicken
-- Fajitas with seared chicken breast, roasted peppers, roasted onions, roast corn, beans, guacamole, sour cream
-- Grilled Steak (3 mins, flip, 2 mins, then rest) with roasted potatoes and brussel-sprouts 
 - Ground Turkey Chili with Black Beans, Pinto Beans, Onion, Tomatoes and Sweet Bell Peppers
-- [Mediterranean Yogurt-Marinated Chicken Kebabs](./recipes/mediterrean_yogurt-marinade_chicken.md) with fresh spinach, hummus , couscous/quinea and pita bread
-- Oven-Baked Breaded Cod/Whitefish with fries
-- Oven-Baked Salmon Fillets with Broccoli and White Rice
-- [Pasta with Sausage & Peppers](./recipes/pasta_with_sausage_peppers.md)
+- [Mediterranean Chicken Kebabs with Yogurt Marinade](./recipes/mediterrean_yogurt-marinade_chicken.md) with veggie kebabs (red onion, cherry tomatoes, colored peppers, mushrooms), fresh spinach, hummus, couscous/quinea and pita bread
+- Salmon Fillets (Oven-Baked) with Broccoli and White Rice
+- Chicken (Oven-Baked) with mashed potatoes and green beans
 - [Pad Thai with Chicken](./recipes/padthai_recipe_from_bag.md)
 - Pork Loin Roasted with Apples, Potatoes, Onion, Carrots, Parsnip in Cider 
 - Pork Roast Slow-Cooked with Pinto Beans and Onion
+- [Shepherd's Pie](./recipes/shepherd's_pie.md)
+- Steaks on the Gas Grill (3 mins, flip, 2 mins, then rest) with Oven Roasted Mini-Potatoes
+  Fajitas with seared chicken breast, roasted peppers, roasted onions, roast corn, beans, guacamole, sour cream
+- Breaded Fish (Cod, Whitefish) oven-baked, with fries
 - Potato salad with brusselsprouts in mustard salad dressing 
-- Seared Ahi Tuna Steaks with fresh salad
-- [Shepherd's Pie](./recipes/shepherd's_pie.md))
-- Salmon Fettucine - pasta with fish, sugarsnap peas, carrots, tossed in olive oil
-- Spaghetti with Meatballs
-- Spaghetti with veggie ground 
+- Ahi Tuna Steaks, pan-seared, with avocado and fresh salad
 - Tilapia
 - Tuna Casserole 
+
+### Pasta
+
+- [Lasagna Eggplant and Zucchini](./recipes/lasagna_eggplant_and_zucchini.md)
+- [Lasagna Mushroom and Spinach](./recipes/lasagna_mushroom_and_spinach.md)
+- [Stovetop Lasagna](./recipes/stovetop_lasagna.md)
+- Pasta Shells Stuffed with Ricotta & Spinach
+- [Pasta with Sausage & Peppers](./recipes/pasta_with_sausage_peppers.md)
+- Spaghetti & Meatballs
+- Spaghetti with veggie ground 
+- Salmon Fettucine - pasta with fish, sugarsnap peas, carrots, tossed in olive oil
 
 ### Pizza
 
 - [Basic Pizza Dough](./recipes/basic_pizza_dough.md)
 - [Deep-Dish Chicago Pizza](./recipes/deep-dish_Chicago_pizza.md)
 
-### Lasagna and Lasagna-Adjacent Pasta Dishes with Ricotta Cheese
 
-- [Lasagna Eggplant and Zucchini](./recipes/lasagna_eggplant_and_zucchini.md)
-- [Lasagna Mushroom and Spinach](./recipes/lasagna_mushroom_and_spinach.md)
-- [Stovetop Lasagna](./recipes/stovetop_lasagna.md)
-- Pasta Shells Stuffed with Ricotta & Spinach
-
-### Tacos & Tostadas
-
-- Shredded-pork tacos
-- Ground-beef tacos 
-- Taco salad with veggie-ground
+### Tacos
+- Pork shredded tacos
+- Ground beef tacos 
+- Taco salad 
 
 ### Ratatouille
 
@@ -109,5 +110,6 @@ We eat it as an entree, not a side.
 - [Banana Bread](./recipes/banana_bread.md)
 - [Chocolate Chip Cookies](./recipes/chocolate_chip_cookies.md)
 - [Crepe Recipe from Julik](./recipes/crepes_recipe_from_julik.md)
+- [Irish Soda Bread](./recipes/irish_soda_bread.md)
 - [Pumpkin Bread](./recipes/pumpkin_bread.md)
 - [Waffle-Iron Churros](./recipes/waffle-iron_churros.md)
