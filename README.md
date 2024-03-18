@@ -12,20 +12,21 @@
 - [Cheeseburger Casserole](./recipes/cheeseburger_casserole.md)
 - [Chicken Parmesan](./recipes/chicken_parmesan.md)
 - [Chicken Pot Pie with Cornbread Crust](./recipes/chicken_pot_pie.md)
-- Enchiladas with Shredded Chicken
 - Ground Turkey Chili with Black Beans, Pinto Beans, Onion, Tomatoes and Sweet Bell Peppers
 - [Mediterranean Chicken Kebabs with Yogurt Marinade](./recipes/mediterrean_yogurt-marinade_chicken.md) with veggie kebabs (red onion, cherry tomatoes, colored peppers, mushrooms), fresh spinach, hummus, couscous/quinea and pita bread
-- Salmon Fillets (Oven-Baked) with Broccoli and White Rice
 - Chicken (Oven-Baked) with mashed potatoes and green beans
 - [Pad Thai with Chicken](./recipes/padthai_recipe_from_bag.md)
 - Pork Loin Roasted with Apples, Potatoes, Onion, Carrots, Parsnip in Cider 
 - Pork Roast Slow-Cooked with Pinto Beans and Onion
 - [Shepherd's Pie](./recipes/shepherd's_pie.md)
 - Steaks on the Gas Grill (3 mins, flip, 2 mins, then rest) with Oven Roasted Mini-Potatoes
-  Fajitas with seared chicken breast, roasted peppers, roasted onions, roast corn, beans, guacamole, sour cream
-- Breaded Fish (Cod, Whitefish) oven-baked, with fries
-- Potato salad with brusselsprouts in mustard salad dressing 
+- Potato salad with brusselsprouts in mustard salad dressing
+
+
+### Fish & Seafood
 - Ahi Tuna Steaks, pan-seared, with avocado and fresh salad
+- Breaded Fish (Cod, Whitefish) oven-baked, with fries
+- Salmon Fillets (Oven-Baked) with Broccoli and White Rice 
 - Tilapia
 - Tuna Casserole 
 
@@ -36,9 +37,9 @@
 - [Stovetop Lasagna](./recipes/stovetop_lasagna.md)
 - Pasta Shells Stuffed with Ricotta & Spinach
 - [Pasta with Sausage & Peppers](./recipes/pasta_with_sausage_peppers.md)
+- Salmon Fettucine - pasta with fish, sugarsnap peas, carrots, tossed in olive oil
 - Spaghetti & Meatballs
 - Spaghetti with veggie ground 
-- Salmon Fettucine - pasta with fish, sugarsnap peas, carrots, tossed in olive oil
 
 ### Pizza
 
@@ -46,10 +47,13 @@
 - [Deep-Dish Chicago Pizza](./recipes/deep-dish_Chicago_pizza.md)
 
 
-### Tacos
+### Tacos & Tex-Mex
 - Pork shredded tacos
 - Ground beef tacos 
 - Taco salad 
+- Fajitas with seared chicken breast, roasted peppers, roasted onions, roast corn, beans, guacamole, sour cream
+- Enchiladas with Shredded Chicken
+
 
 ### Ratatouille
 
