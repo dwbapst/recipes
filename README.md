@@ -10,17 +10,20 @@
 - Beef-Roast Stew with Potatoes, Onion, Carrots, Parsnip and Turnip from the Slow-Cooker
 - Breakfast for Dinner
 - [Cheeseburger Casserole](./recipes/cheeseburger_casserole.md)
+- Chicken (Oven-Baked) with mashed potatoes and green beans
 - [Chicken Parmesan](./recipes/chicken_parmesan.md)
 - [Chicken Pot Pie with Cornbread Crust](./recipes/chicken_pot_pie.md)
+- Cornbeef & Cabbage, with White Rice
 - Ground Turkey Chili with Black Beans, Pinto Beans, Onion, Tomatoes and Sweet Bell Peppers
+- Hotdogs with potato salad 
 - [Mediterranean Chicken Kebabs with Yogurt Marinade](./recipes/mediterrean_yogurt-marinade_chicken.md) with veggie kebabs (red onion, cherry tomatoes, colored peppers, mushrooms), fresh spinach, hummus, couscous/quinea and pita bread
-- Chicken (Oven-Baked) with mashed potatoes and green beans
 - [Pad Thai with Chicken](./recipes/padthai_recipe_from_bag.md)
 - Pork Loin Roasted with Apples, Potatoes, Onion, Carrots, Parsnip in Cider 
 - Pork Roast Slow-Cooked with Pinto Beans and Onion
+- Potato Salad with red-potatos & brussel-sprouts in mustard salad dressing
 - [Shepherd's Pie](./recipes/shepherd's_pie.md)
 - Steaks on the Gas Grill (3 mins, flip, 2 mins, then rest) with Oven Roasted Mini-Potatoes
-- Potato salad with brusselsprouts in mustard salad dressing
+
 
 
 ### Fish & Seafood
