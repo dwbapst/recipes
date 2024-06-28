@@ -192,22 +192,3 @@ Next, make sure you assemble the ingredients in the right order — dough, toppi
 Preheat the oven to at least 425 degrees and bake the pizza for about 30 minutes. Halfway through, it’s a good idea to place some foil over the top so the edge of the crust doesn’t burn in the oven. Keep an eye on the pizza, make sure it cools enough so you don’t burn yourself and get ready to enjoy a pizza style known as a city classic.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Perhaps the most famous of all Chicago style pizzas, the deep dish pizza has solidified the Chicago pizza as a food of legend. The crust supports thick layers of mozzarella cheese and a hefty, chunky-style sauce that has helped make the pizza so well known.
-
