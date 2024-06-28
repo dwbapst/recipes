@@ -35,40 +35,14 @@ Recipe by PJ Hamel, King Arthur Baking
 - For individual pizzas: Use a hamburger bun pan. Divide risen dough into 12 pieces. Bake individual crusts, fill, then bake for 20-25 minutes.
 
 
-
-Crust
-
-    4 cups (480g) King Arthur Unbleached All-Purpose Flour
-    3 tablespoons (35g) yellow cornmeal
-    1 3/4 teaspoons (11g) salt
-    2 3/4 teaspoons instant yeast
-    2 tablespoons (25g) olive oil
-    4 tablespoons (57g) butter, melted
-    2 tablespoons (25g) vegetable oil
-    1 cup + 2 tablespoons (255g) lukewarm water
-
-Filling
-
-    3/4 lb mozzarella cheese, sliced
-    1 pound Italian sweet or hot sausage, cooked and sliced; or about 3 cups of the sautéed vegetables of your choice
-    28-ounce can plum tomatoes, lightly crushed; or 28-ounce can diced or chopped tomatoes
-    2 to 4 garlic cloves, peeled and minced, optional
-    1 tablespoon granulated sugar, optional
-    1 to 2 teaspoons Pizza Seasoning or mixed dried Italian herbs (oregano, basil, rosemary), to taste
-    1 cup (113g) freshly grated Parmesan or Asiago cheese
-    2 tablespoons (25g) olive oil, to drizzle on top
-
-
 Instructions
 
-    To make the crust: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Mix flour with the rest of the dough ingredients, and knead — by hand, mixer, or bread machine — to make a smooth crust. This will take about 7 minutes at medium-low speed in a stand mixer.
 
     Place the dough in a lightly oiled bowl or 8-cup measure (which makes it easy to track its rise), cover, and let rise till very puffy, about 60 minutes.
 
     While the dough is rising, ready your 14" deep-dish pizza pan. Grease it with non-stick vegetable oil spray, then pour in 3 to 4 tablespoons olive oil, tilting it to cover the bottom of the pan, and partway up the sides.
 
     Stretch the dough to make as large a circle as you can. You can do this on a lightly oiled baking mat, if you choose; or simply stretch the dough in your hands.
-
 
     Lay the dough in the pan, and stretch it towards the edges until it starts to shrink back. Cover, and let it rest for 15 minutes. Preheat the oven to 425°F while the dough rests.
 
