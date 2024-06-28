@@ -5,6 +5,21 @@
 [Recipe by PJ Hamel, King Arthur Baking](https://www.kingarthurbaking.com/recipes/chicago-style-deep-dish-pizza-recipe)
 [Giordano's Recipe](https://giordanos.com/how-to-make-the-perfect-chicago-style-pizza/)
 
+
+
+### For Deep Dish (Four cups of flour worth)
+- Need marinara sauce, mozzarella, green peppers, onions, and ground spicy Italian sausage.
+1. Preheat oven to 450°F.
+2. Warm and divide dough. Grease pie dish with olive oil. Place larger dough, shape to dish.
+3. Pan-fry onions, sausage, and peppers. Add to dough with mozzarella. Mix well.
+4. Cover with second dough, seal edges.
+5. Bake 15-20 min until slightly browned.
+6. Add sauce, tomato slices, bake additional 5-10 min. Let cool and serve.
+
+
+
+
+
 ## Crust Ingredients
 
 - 4 cups (480g) King Arthur Unbleached All-Purpose Flour
@@ -39,21 +54,6 @@
 
 ## Extra Tips
 - For individual pizzas: Use a hamburger bun pan. Divide risen dough into 12 pieces. Bake individual crusts, fill, then bake for 20-25 minutes.
-
-### For Deep Dish (Four cups of flour worth)
-- Need marinara sauce, mozzarella, green peppers, onions, and ground spicy Italian sausage.
-1. Preheat oven to 450°F.
-2. Warm and divide dough. Grease pie dish with olive oil. Place larger dough, shape to dish.
-3. Pan-fry onions, sausage, and peppers. Add to dough with mozzarella. Mix well.
-4. Cover with second dough, seal edges.
-5. Bake 15-20 min until slightly browned.
-6. Add sauce, tomato slices, bake additional 5-10 min. Let cool and serve.
-
-
-
-
-
-
 
 
 
