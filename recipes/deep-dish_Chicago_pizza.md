@@ -232,19 +232,6 @@ This style of pizza is one that might seem the most familiar to people who are n
 What Makes Chicago Pizza Different From the Rest?
 
 There are almost as many pizza styles as there are major cities in the United States. How do you possibly distinguish all the differences? Here’s a quick breakdown to help make the styles of pizza more distinguishable and remind you why Chicago-style pizza is the king of pizzas.
-New York Style Pizza
 
-This famous city pizza is often distinguished by its hand-tossed crust. It bakes up thin and is often served in large slices, often bought individually so busy New Yorkers can eat it on the go. Folding the pizza in half to get a bite is a practice that started in this city.
-Ohio Valley Style Pizza
-
-Two main things make this pizza distinct. First, it’s baked in a square pan and sliced not in the classic triangle shapes, but in individual squares. Second, the cheese isn’t melted the whole way. This pizza is baked first and then the cheese is sprinkled on top as it comes out of the oven, giving it a sharper texture and less gooey mouth feel.
-
-Philadelphia’s Tomato Pie
-
-A unique pizza of its own, the Philadelphia tomato pie is baked in long sheets. The sauce, which is cooked down with herbs and spices until it’s thin, is placed on top of the extra thick dough. The topping? Just some grated cheese.
-California Style Pizza
-
-Less traditional, the California-style pizza often has odd toppings. Ever have a pie with avocado, egg or ostrich on it? You can likely find it here.
-Chicago Style Is the Best
 
 Where else can a single slice of pizza fill your belly? Chicago-style pizzas are hearty and unique, filled to the brim with fresh and tasty toppings, the best cheeses in the world and the most robust tomato sauce. You really want to eat a different kind of pie? Then you want to eat a slice of the best Chicago-style pizza.
