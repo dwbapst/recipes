@@ -1,7 +1,9 @@
 # Chicago-Style Deep Dish Pizza
 
-Recipe by PJ Hamel, King Arthur Baking  
-[Recipe Source](https://www.kingarthurbaking.com/recipes/chicago-style-deep-dish-pizza-recipe)
+# Sources
+
+[Recipe by PJ Hamel, King Arthur Baking](https://www.kingarthurbaking.com/recipes/chicago-style-deep-dish-pizza-recipe)
+[Giordano's Recipe](https://giordanos.com/how-to-make-the-perfect-chicago-style-pizza/)
 
 ## Crust Ingredients
 
@@ -28,7 +30,7 @@ Recipe by PJ Hamel, King Arthur Baking
 
 1. Mix crust ingredients; knead to make a smooth crust. Let rise for 60 minutes.
 2. Grease a 14" deep-dish pizza pan with oil, covering the bottom and sides.
-3. Stretch dough in the pan, let rest for 15 minutes. Preheat oven to 425°F.
+3. Stretch dough in pie pan, let rest for 15 minutes. Preheat oven to 425°F.
 4. Continue stretching dough up the sides of the pan. Let rest for 15 more minutes.
 5. Bake crust for 10 minutes. Prepare filling by draining and seasoning tomatoes.
 6. Layer mozzarella, sausage/vegetables, tomato mixture in crust. Top with Parmesan, drizzle with oil.
@@ -38,31 +40,20 @@ Recipe by PJ Hamel, King Arthur Baking
 ## Extra Tips
 - For individual pizzas: Use a hamburger bun pan. Divide risen dough into 12 pieces. Bake individual crusts, fill, then bake for 20-25 minutes.
 
-
-    Stretch the dough to make as large a circle as you can. You can do this on a lightly oiled baking mat, if you choose; or simply stretch the dough in your hands.
-
-    Lay the dough in the pan, and stretch it towards the edges until it starts to shrink back. Cover, and let it rest for 15 minutes. Preheat the oven to 425°F while the dough rests.
-
-    Continue to stretch the dough to cover the bottom of the pan, then gently push it up the sides of the pan. The olive oil may ooze over the edge of the crust; that's OK. Let the crust rest for another 15 minutes.
-
-    Bake the crust for 10 minutes, until it's set and barely beginning to brown. While it's baking, prepare the filling.
-
-    Drain the tomatoes thoroughly. Combine them with the Pizza Seasoning or herbs, and the garlic and sugar (if you're using them). Add salt to taste; you probably won't need any additional salt if you've used the Pizza Seasoning.
-
-    Cover the bottom of the crust with the sliced mozzarella, fanning it into the crust. Add the sausage (or sautéed vegetables), then the tomato mixture.
-
-    Sprinkle with the grated Parmesan, and drizzle with the olive oil.
-
-    Bake the pizza for about 25 minutes, or until the filling is bubbly and the topping is golden brown. Remove it from the oven, and carefully lift it out of the pan onto a rack. A giant spatula is a help here. Allow the pizza to cool for about 15 minutes (or longer, for less oozing) before cutting and serving.
-
-Tips from our Bakers
+### For Deep Dish (Four cups of flour worth)
+- Need marinara sauce, mozzarella, green peppers, onions, and ground spicy Italian sausage.
+1. Preheat oven to 450°F.
+2. Warm and divide dough. Grease pie dish with olive oil. Place larger dough, shape to dish.
+3. Pan-fry onions, sausage, and peppers. Add to dough with mozzarella. Mix well.
+4. Cover with second dough, seal edges.
+5. Bake 15-20 min until slightly browned.
+6. Add sauce, tomato slices, bake additional 5-10 min. Let cool and serve.
 
 
 
 
 
 
-https://giordanos.com/how-to-make-the-perfect-chicago-style-pizza/
 
 
 
@@ -217,21 +208,6 @@ Preheat the oven to at least 425 degrees and bake the pizza for about 30 minutes
 
 
 
-Understanding Chicago Pizza Lingo
-
-There are a lot of terms that get tossed around when it comes to describing Chicago’s famous pizza. To understand the best pizza in Chicago, you need to know the styles.
-Deep Dish
 
 Perhaps the most famous of all Chicago style pizzas, the deep dish pizza has solidified the Chicago pizza as a food of legend. The crust supports thick layers of mozzarella cheese and a hefty, chunky-style sauce that has helped make the pizza so well known.
-Stuffed Pizza
 
-A form of deep dish pizza, you don’t want to underestimate this bad boy. You’ll need to bring an appetite to conquer this huge pizza. We have arguably the best Chicago-style pizza, and stuffed pizza is the style that Giordano’s is best known for. While the sturdy base crust upholds the entire pizza, it’s the slim, flaky bonus layer of crust in between the sauce and the cheese that qualifies the pie as “stuffed.” This layer is so thin that some people don’t even notice it. It almost melts between the gooey layer of cheese and the hot, saucy layer of tomato that sits on top.
-Pan Pizza
-
-This style of pizza is one that might seem the most familiar to people who are new to Chicago-style pizza. Caramelized bits of cheese decorate the crust, and the classic Chicago-style sauce tops it all in deliciousness.
-What Makes Chicago Pizza Different From the Rest?
-
-There are almost as many pizza styles as there are major cities in the United States. How do you possibly distinguish all the differences? Here’s a quick breakdown to help make the styles of pizza more distinguishable and remind you why Chicago-style pizza is the king of pizzas.
-
-
-Where else can a single slice of pizza fill your belly? Chicago-style pizzas are hearty and unique, filled to the brim with fresh and tasty toppings, the best cheeses in the world and the most robust tomato sauce. You really want to eat a different kind of pie? Then you want to eat a slice of the best Chicago-style pizza.
