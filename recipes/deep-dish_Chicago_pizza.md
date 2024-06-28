@@ -1,8 +1,10 @@
 # Chicago-Style Deep Dish Pizza
+
 Recipe by PJ Hamel, King Arthur Baking  
 [Recipe Source](https://www.kingarthurbaking.com/recipes/chicago-style-deep-dish-pizza-recipe)
 
 ## Crust Ingredients
+
 - 4 cups (480g) King Arthur Unbleached All-Purpose Flour
 - 3 tbsp (35g) yellow cornmeal
 - 1 3/4 tsp (11g) salt
@@ -13,6 +15,7 @@ Recipe by PJ Hamel, King Arthur Baking
 - 1 cup + 2 tbsp (255g) lukewarm water
 
 ## Filling Ingredients
+
 - 3/4 lb mozzarella cheese, sliced
 - 1 lb Italian sweet/hot sausage, cooked/sliced or sautéed vegetables
 - 28-oz can plum tomatoes, lightly crushed
@@ -22,6 +25,7 @@ Recipe by PJ Hamel, King Arthur Baking
 - 2 tbsp (25g) olive oil
 
 ## Instructions
+
 1. Mix crust ingredients; knead to make a smooth crust. Let rise for 60 minutes.
 2. Grease a 14" deep-dish pizza pan with oil, covering the bottom and sides.
 3. Stretch dough in the pan, let rest for 15 minutes. Preheat oven to 425°F.
@@ -31,16 +35,9 @@ Recipe by PJ Hamel, King Arthur Baking
 7. Bake for about 25 minutes until filling is bubbly and topping is golden brown.
 8. Cool for 15 minutes before serving.
 
-## Tips from Our Bakers
+## Extra Tips
 - For individual pizzas: Use a hamburger bun pan. Divide risen dough into 12 pieces. Bake individual crusts, fill, then bake for 20-25 minutes.
 
-
-Instructions
-
-
-    Place the dough in a lightly oiled bowl or 8-cup measure (which makes it easy to track its rise), cover, and let rise till very puffy, about 60 minutes.
-
-    While the dough is rising, ready your 14" deep-dish pizza pan. Grease it with non-stick vegetable oil spray, then pour in 3 to 4 tablespoons olive oil, tilting it to cover the bottom of the pan, and partway up the sides.
 
     Stretch the dough to make as large a circle as you can. You can do this on a lightly oiled baking mat, if you choose; or simply stretch the dough in your hands.
 
@@ -60,7 +57,7 @@ Instructions
 
 Tips from our Bakers
 
-    For individual deep-dish pizzas: Grease the wells of an individual hamburger bun pan. Divide the risen dough into 12 equal pieces; if you have a scale, each piece will weigh about 2 1/2 ounces. Roll each piece into a tight ball, then cover six of them and transfer to the refrigerator. Allow the remaining six balls of dough to rest, covered, at room temperature for 20 minutes. Stretch an unrefrigerated dough ball to cover the bottom of a well, then push it up the sides of the pan. Repeat with the remaining dough. After a 15-minute rest, bake the individual crusts for 10 minutes until they're set and barely beginning to brown. Fill, then bake the pizzas for another 20 to 25 minutes, until the filling is bubbly and the topping is golden brown. Repeat with the remaining (refrigerated) dough.
+
 
 
 
