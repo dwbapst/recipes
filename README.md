@@ -5,7 +5,7 @@
 ### Dinners We Often Have
 
 - [Barbeque Chicken Breasts for the Grill](./recipes/barbeque_chicken.md)
-- Barbecue Chicken Wings and Drumsticks for the Oven
+- [Barbecue Chicken Wings and Drumsticks for the Oven](./recipes/oven-baked_barbeque_chicken.md)
 - [Beer Battered Fish](./recipes/beer_battered_fish.md)
 - Beef-Roast Stew with Potatoes, Onion, Carrots, Parsnip and Turnip from the Slow-Cooker
 - Breakfast for Dinner
